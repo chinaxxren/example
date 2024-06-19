@@ -1,0 +1,1 @@
+/Users/chinaxxren/Develop/Rust/example/function/target/debug/function: /Users/chinaxxren/Develop/Rust/example/function/src/demo1/method.rs /Users/chinaxxren/Develop/Rust/example/function/src/demo1/mod.rs /Users/chinaxxren/Develop/Rust/example/function/src/main.rs
